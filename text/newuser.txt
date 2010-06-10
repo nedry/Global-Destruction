@@ -1,0 +1,18 @@
+Welcome to the Tardis BBS.  Tardis BBS was originally brought on
+line in 1985, with custom software written by the sysop at that 
+time, John Lorance.  
+
+Now the system is back, as a multi-threaded BBS.  For more information
+see the [B]ulletin section.  
+
+There is one common sense rule on this system, respect your fellow users.
+
+The software is currently under development.  We have a working multi-line
+teleconference and message boards up and running.  A QWK/REP networking 
+connector is currently being written, and multi-user games are next on the 
+list.  If you would like to help develop the system, please send [F]eedback
+to the SYSOP.
+
+Welcome.
+
+Mark Firestone - sysop

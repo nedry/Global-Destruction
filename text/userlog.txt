@@ -1,0 +1,1894 @@
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+: 0.0.0.0
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+
+.
+
+%GCONNECT :  %Y10/30/2002 at 11:15AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:16AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:19AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:19AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 12:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 12:02PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 12:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 12:05PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 12:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 02:24PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 02:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:08PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 03:24PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/30/2002 at 03:24PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:41PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/30/2002 at 11:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 10:36AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 10:42AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 10:48AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 10:50AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 11:08AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 11:10AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 12:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 12:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 12:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 01:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 01:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:00PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:08PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:08PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:11PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 02:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:12PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 02:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:16PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 02:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 02:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:46PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 03:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:52PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 03:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 04:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 04:11PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 04:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y10/31/2002 at 04:14PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y10/31/2002 at 04:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:06AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Ghas disconnected at 11/01/2002 at 01:06AM.
+
+%GCONNECT :  %Y11/01/2002 at 01:08AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Ghas disconnected at 11/01/2002 at 01:08AM.
+
+%GCONNECT :  %Y11/01/2002 at 01:09AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:10AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:13AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:15AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:16AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 01:23AM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/01/2002 at 01:25AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 10:04AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 10:12AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 10:19AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 10:21AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:07AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:08AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:09AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:16AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:23AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:24AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:26AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:27AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:33AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:34AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:43AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:50AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:56AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 11:59AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 12:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 12:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/01/2002 at 03:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 10:25AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:28AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:38AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:41AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:47AM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/04/2002 at 11:52AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:53AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 11:59AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 03:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 04:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 04:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 04:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/04/2002 at 04:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 02:04AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 09:14AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 09:14AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 09:21AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 09:24AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 09:26AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 10:34AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 10:35AM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 10:36AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 10:43AM %Gfrom IP: 149.141.34.39
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 10:44AM %Gfrom IP: 149.141.34.39
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 10:56AM %Gfrom IP: 149.141.34.39
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:01AM %Gfrom IP: 149.141.34.39
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:37AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:54PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 12:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:56PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 12:56PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:58PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 12:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 12:59PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 12:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 01:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 01:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 01:19PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 01:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 01:45PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 01:45PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/05/2002 at 01:45PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%CUSER    :  New user stimpy created.
+%GUSER    :  %Ystimpy %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 02:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 02:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 02:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ystimpy %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 03:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 03:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 03:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 03:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/05/2002 at 11:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:03AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:05AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:13AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:15AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:18AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:22AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 12:27AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 11:14AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 04:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 04:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 04:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 04:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 04:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 10:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 11:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 11:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 11:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/06/2002 at 11:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/07/2002 at 10:38AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:20AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:24AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:27AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:46AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:51AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 01:55AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:00AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:31AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:32AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:34AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:37AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:39AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 02:41AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 11:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/09/2002 at 11:55PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:02AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:07AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:15AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:21AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:22AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:31AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:33AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/10/2002 at 12:37AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/11/2002 at 12:45AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/12/2002 at 03:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/14/2002 at 10:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/14/2002 at 10:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/14/2002 at 10:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/14/2002 at 10:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/15/2002 at 11:35AM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/15/2002 at 11:48AM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/15/2002 at 11:48AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:34AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:41AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 04:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 10:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 10:34PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 10:52PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:06PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/18/2002 at 11:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:08PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/18/2002 at 11:08PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:10PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/18/2002 at 11:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:14PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/18/2002 at 11:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/18/2002 at 11:28PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:13PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:15PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:28PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/19/2002 at 11:28PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:30PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y11/19/2002 at 11:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:36PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/19/2002 at 11:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 02:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 02:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 03:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 03:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 04:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 04:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/20/2002 at 05:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 09:55AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 10:00AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 10:53AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:29AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:30AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:32AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:33AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:38AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:39AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:41AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:43AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:47AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:48AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:49AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:52AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:54AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:56AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:58AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:58AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 11:59AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 12:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 12:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 01:34PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:28PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 02:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:34PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:45PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:52PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 03:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 04:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 04:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 04:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y11/21/2002 at 04:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y12/07/2002 at 01:17AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y12/07/2002 at 01:29AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y12/07/2002 at 01:36AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ythe doctor %Glogged on sucessfully.
+
+%GCONNECT :  %Y12/31/2002 at 06:43PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:46PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:48PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:50PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:53PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:53PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:55PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:57PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 06:59PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:01PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:04PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:33PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:35PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:36PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:37PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:42PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y12/31/2002 at 07:43PM %Gfrom IP: 127.0.0.1
+%CUSER    :  New user martin demello created.
+%GCONNECT :  %Y12/31/2002 at 07:45PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:38PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:39PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:40PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:44PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:56PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 06:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 07:00PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 07:13PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GUSER    :  %Ymartin demello %Ghas disconnected at 01/01/2003 at 07:14PM.
+
+%GCONNECT :  %Y01/01/2003 at 07:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GUSER    :  %Ymartin demello %Ghas disconnected at 01/01/2003 at 07:17PM.
+
+%GCONNECT :  %Y01/01/2003 at 07:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 07:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 07:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:23PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 08:25PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 08:28PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/01/2003 at 08:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/01/2003 at 08:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:14PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymartin demello %Glogged on sucessfully.
+
+%CUSER    :  martin demello posted a message board1/1 on 01/02/2003 at 01:16PM.
+%GCONNECT :  %Y01/02/2003 at 01:22PM %Gfrom IP: 127.0.0.1
+%CUSER    :  New user zem created.
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:24PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:25PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y01/02/2003 at 01:26PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:41PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:45PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/02/2003 at 01:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/04/2003 at 02:22AM %Gfrom IP: 24.84.36.59
+%GUSER    :  %Yzem %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 03:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 03:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 04:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 04:57PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:28PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/03/2008 at 05:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:44PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/03/2008 at 05:45PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/03/2008 at 05:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 05:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 07:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:05PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:13PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:26PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:28PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:41PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:42PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 08:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:02PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 09:55PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:37PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/03/2008 at 11:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:42PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:44PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/03/2008 at 11:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/03/2008 at 11:55PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/12/2008 at 11:36PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/12/2008 at 11:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 08:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:05PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:34PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 09:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:41PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 10:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:00PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/14/2008 at 11:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:23PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/14/2008 at 11:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:02AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:04AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:06AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:11AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:13AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:18AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:21AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 12:24AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:09PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:15PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/15/2008 at 10:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:39AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:40AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:43AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:44AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:50AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:51AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:52AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:53AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 01:58AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 02:18AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 02:31AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 02:54PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 06:55PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 06:56PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 06:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:00PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:11PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:13PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:18PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:21PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:28PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:36PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:45PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:49PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 07:51PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 08:59PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:00PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:35PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:46PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 09:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:05PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:08PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:13PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/16/2008 at 10:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:19PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:24PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:31PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:32PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:34PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:40PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 10:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:01PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:03PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:12PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:16PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:17PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:25PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:36PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/16/2008 at 11:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 08:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:37PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:38PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:41PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:43PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:44PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:45PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:47PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:50PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:52PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 09:54PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y03/17/2008 at 09:55PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:20PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:22PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:24PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:27PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:29PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:30PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 10:33PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 11:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 11:06PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/17/2008 at 11:07PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/18/2008 at 08:07AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y03/18/2008 at 05:10PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y05/29/2008 at 02:58PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 02:03PM %Gfrom IP: 127.0.0.1
+%CUSER    :  New user mark firestone created.
+%GCONNECT :  %Y06/02/2008 at 02:04PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 02:04PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 03:33PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 03:34PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 03:37PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 03:48PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 03:50PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 05:36PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 05:39PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 05:42PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 05:44PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 05:52PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/02/2008 at 05:52PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 05:53PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 05:56PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/02/2008 at 05:57PM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:39AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:40AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:42AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:48AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:51AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 10:52AM %Gfrom IP: 127.0.0.1
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 11:14AM %Gfrom IP: 127.0.0.1
+%CUSER    :  New user mark firestone created.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 02:13PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/03/2008 at 05:27PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/03/2008 at 05:28PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/03/2008 at 05:28PM %Gfrom IP: 127.0.0.1
+%GCONNECT :  %Y06/03/2008 at 05:36PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/03/2008 at 05:37PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/03/2008 at 05:37PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/03/2008 at 05:38PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/03/2008 at 05:39PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 05:40PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/03/2008 at 05:41PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/03/2008 at 09:32AM %Gfrom IP: %Y0.0.0.0%G.
+%CUSER    :  New user joe test created.
+%GUSER    :  %Yjoe test %Glogged on sucessfully.
+
+%GUSER    :  %Yjoe test %Ghas disconnected at 06/03/2008 at 09:56AM.
+
+%GCONNECT :  %Y06/03/2008 at 10:39AM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 06/03/2008 at 10:42AM.
+
+%GCONNECT :  %Y12/15/2008 at 11:57PM %Gfrom IP: %Y0.0.0.0%G.
+%CUSER    :  New user mark created.
+%GUSER    :  %Ymark %Glogged on sucessfully.
+
+%GCONNECT :  %Y01/04/2009 at 10:07PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 01/04/2009 at 10:08PM.
+
+%GCONNECT :  %Y04/05/2010 at 09:10PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 04/05/2010 at 09:12PM.
+
+%GCONNECT :  %Y04/05/2010 at 11:50PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 04/06/2010 at 12:08AM.
+
+%GCONNECT :  %Y04/06/2010 at 12:13AM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/06/2010 at 12:18AM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 04/06/2010 at 12:40AM.
+
+%GCONNECT :  %Y04/09/2010 at 06:31PM %Gfrom IP: %Y0.0.0.0%G.
+%CUSER    :  New user MDY created.
+%GUSER    :  %YMDY %Glogged on sucessfully.
+
+%GUSER    :  %YMDY %Ghas disconnected at 04/09/2010 at 06:35PM.
+
+%GCONNECT :  %Y04/10/2010 at 01:26AM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %Ymark firestone %Glogged on sucessfully.
+
+%GUSER    :  %Ymark firestone %Ghas disconnected at 04/10/2010 at 01:26AM.
+
+%GCONNECT :  %Y04/11/2010 at 09:24PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 09:30PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:19PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:24PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:32PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:34PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:35PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y04/11/2010 at 10:51PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y06/07/2010 at 04:31PM %Gfrom IP: %Y0.0.0.0%G.
+%GCONNECT :  %Y06/07/2010 at 04:32PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 06/07/2010 at 04:32PM.
+
+%GCONNECT :  %Y06/07/2010 at 04:35PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:36PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:38PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:42PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:43PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:44PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:49PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/07/2010 at 04:54PM %Gfrom IP: %Y0.0.0.0%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 06/07/2010 at 04:55PM.
+

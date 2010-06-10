@@ -1,0 +1,16 @@
+%GThe game is divided up into tables, which are very similar to their
+real-life counterparts: lots of people can sit around one and talk or
+play a game.
+
+A number of the tables in the game have computer players sitting at
+them.  These computer players will join in any game you start (see "%Whelp
+starting%G") and are otherwise not much like real people.
+
+To get a list of all users in the game, enter "%Wscan%G".  With each user
+is a number indicating his table.  When you enter Global Destruction,
+you always start at table 1.  Only one game can be played at each
+table.  To choose a new table, enter "%Wjoin #%G", where # is the table.
+For example, to join table 6, enter "%Wjoin 6%G".  As long as you are not
+playing a game, you can join any table you want at will.  If you join a
+table where a game is already in progress, you can watch, but you
+cannot play.

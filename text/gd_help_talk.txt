@@ -1,0 +1,9 @@
+%GTalking to other players is very simple.  Just type what you want to
+say at the prompt and press <Return>.  The message you type will be to
+everyone at the table, which is handy for intimidating multiple people
+at once.  If you wish to send a message to only one person, enter %W/d%G
+ followed by the user's name, followed by the text. 
+
+There are also a few actions you can do to unsuspecting players, such
+as kicking, hugging, and kissing them.  You can get a list of actions
+by entering "%Wactions%G" at the prompt.

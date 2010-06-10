@@ -1,0 +1,33 @@
+%CTitle
+ Commander Name                           %RDamage             Overkills  %GWins
+ %W---------------------------------------  ------             ---------  ----
+%CMenace
+ Donald_Rumsfeld                          %R1.71 billion       1          %G0
+
+%CMenace
+ Richard_Nixon                            %R807 million        0          %G0
+
+%CNuisance
+ Fidel_Castro                             %R635 million        0          %G0
+
+%CNuisance
+ Bill_Gates                               %R504 million        0          %G0
+
+%CNuisance
+ Moammar_Khadafy                          %R444 million        0          %G0
+
+%CDiplomat
+ MDY                                      %R23 million         0          %G0
+
+%CDiplomat
+ mark                                     %R20 million         40         %G60
+
+%CDiplomat
+ joe test                                 %R0 million          0          %G0
+
+%CDiplomat
+ SYSOP                                    %R0 million          0          %G0
+
+%CDiplomat
+ mark firestone                           %R0 million          0          %G0
+

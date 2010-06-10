@@ -1,0 +1,21 @@
+%G
+  Warheads: %C10 mt I%G, %C20 mt II%G, %C40 mt III%G, %C70 mt IV%G, %C100 mt V%G, %C150 mt VI%G.
+
+  Missiles: %CViper II%G, %CTrident III%G, %CAres IV%G,
+            %CHellbore V%G, %CThunderbolt VI%G, %CMIRV Missile%G.
+
+     ABM's: %CLiberator I%G, %CGuardian II%G, %CPatriot III%G,
+            %CAvatar IV%G, %CNexus V%G, %CAegis VI%G.
+
+  %C   Misinformation[0m -%M Lure enemy population into your country.
+  %C       Persuasion[0m -%M A more powerful form of Misinformation.
+  %C     Brainwashing[0m -%M Similar to Persuasion, but even works in war-time.
+  %C      Immigration[0m -%M Increases your country's population.
+  %CSuper Immigration[0m -%M A much stronger form of Immigration.
+  %C          Special[0m -%M Random wildcard; could have any effects!
+  %C              Spy[0m -%M Gain secret information about your enemy.
+  %C       Counterspy[0m -%M Protects you from Spy attacks.
+  %C           Bomber[0m -%M Carries multiple warheads, up to 100 mt V.
+  %C      Jet Fighter[0m -%M Protects your country from Bomber missions.
+
+To get help on any one item, enter "%Whelp <item>%G", such as "%Whelp spy%G".

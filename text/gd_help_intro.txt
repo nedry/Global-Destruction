@@ -1,0 +1,115 @@
+%GGlobal Destruction is game about nuclear war and other seedy,
+suspicious things nations do to each other.  When you play a game, you
+get a country and a whole bunch of nuclear bombs, as well as some
+pieces of an air force and an intelligence agency.
+
+The environment for Global Destruction is very similar to
+Teleconference.  Anything you type is sent out to everyone else at the
+same table (tables are much like Teleconference channels).  You can
+switch tables, whisper to users, and perform some actions as well.
+
+The real fun begins when someone starts a nuclear war.  You start out
+with a number of national resources (or "items" for short).  Among
+these will be warheads, missiles, jet fighters, and all kinds of
+complicated things that are just about to be explained.  In the
+meantime, remember that you can enter "%Wstock%G" at any time in
+the game to see what you have available.  (By the way, the command to
+start a war is "%Wstart%G"!)
+
+Global Destruction is game about nuclear war and other seedy,
+suspicious things nations do to each other.  When you play a game, you
+get a country and a whole bunch of nuclear bombs, as well as some
+pieces of an air force and an intelligence agency.
+
+The environment for Global Destruction is very similar to
+Teleconference.  Anything you type is sent out to everyone else at the
+same table (tables are much like Teleconference channels).  You can
+switch tables, whisper to users, and perform some actions as well.
+
+The real fun begins when someone starts a nuclear war.  You start out
+with a number of national resources (or "items" for short).  Among
+these will be warheads, missiles, jet fighters, and all kinds of
+complicated things that are just about to be explained.  In the
+meantime, remember that you can enter "%Wstock%G" at any time in
+the game to see what you have available.  (By the way, the command to
+start a war is "%Wstart%G"!)
+
+The most common items are in three groups: missiles, warheads, and
+ABM's.  ABM is short for anti-ballistic missile, or anti-missile.  More
+on ABM's later.  Each of these kind of items has a rating, which is a
+Roman numeral from I to VI after the name of the item.  The higher the
+rating, the better the item.  If you want to launch a missile, one of
+the most common activities in this game, you use a missile item.  To
+use an item (any item!), enter "use" followed by the item's name in your
+stockpile.  Let's say you have a %CTrident III%G you want to fire at the poor
+computer players.  When your turn comes around, you enter "%Wuse tri%G".
+You can enter abbreviations as short as you like when using a resource.
+Once you do that, your turn is over and the %CTrident III%G is loaded into a
+silo, ready to fire.
+
+Your turn comes back around after everyone else plays and the game
+tells you that your %CTrident III%G is standing by for a warhead.  Good,
+because you want to blow someone up!  If you forgot what warheads you
+have, you could enter "%Wstock%G" here to see what you have.  Assume for the
+example that you have a %C100 mt V%G and a %C40 mt III%G.  Now, a %C100 mt V%G is a
+good warhead: 100 megatons of nuclear power.  But, if you try to play
+it now, the game won't let you.  Why?  Because that %CTrident III%G can't
+carry such a big warhead.  Remember, it's a %CTrident III%G, not a %CTrident V%G!
+You need a missile of rating V to carry that warhead.
+
+So, you decide to use the %C40 mt III%G, since that's the biggest one you
+can put on the missile.  You type "%Wuse 40%G" and then you are prompted
+for a target.  If you didn't already have one in mind, then enter
+"%Wtable%G" at the target prompt.  Once you choose your target, enter the
+name of the victim.  Assuming you still want to pick on the computer
+players, you could enter "%WLibya%G" to bother Moammar Khadafy.
+
+The missile is in the air now - either it's going to explode over his
+country or he's going to intercept it.  This is where ABM's come in.
+When you use an ABM, it moves into a special area called your active
+defense arsenal.  Once an ABM is in this area, it can be used to
+intercept an incoming missile.  Assume you are Moammar Khadafy.  When
+you saw this player load the %CTrident III%G into a silo, you got nervous
+and used your %CPatriot III%G, which is an ABM.
+
+Now that %CTrident III%G is headed for you and you have to do something
+about it!  You can type "%Wincoming%G" to fire off ABM's at incoming
+missiles.  However, you CAN'T use an ABM this turn and use it for
+incoming missiles.  You have to have the ABM already ready when the
+missile starts coming in.  It's not all bad news, though!  Firing an
+ABM doesn't take up your turn.  You can still use another item normally.
+
+The rating of the ABM comes in to play here: ABM's will usually
+intercept a missile of the same rating.  If you use a higher rating ABM
+on a smaller missile, then it is more likely to work.  By the same token,
+a %CLiberator I%G is not very likely to bring down an incoming %CAres IV%G!
+!} T GD Fourth page of intro
+
+Here's something to note: the rating of the ABM applies to the missile,
+not the warhead.  If someone were to fire a %CThunderbolt VI%G with a puny
+%C20 mt II%G warhead, your %CGuardian II%G wouldn't do very well against it.
+In that case, you might not even want to use a big ABM - the warhead is
+so small, you'd be better off saving the ABM for a %CThunderbolt VI%G with a
+bigger bomb.  Then again, if you only have 2 million population left...
+
+Speaking of population, that is the meter of how well your country is
+doing.  The more population you have, the longer you will live.  When
+your population reaches zero, your country collapses and you are out of
+the game.  Needless to say, nuclear bombs detonating over your country
+will cause you to lose population!  Enter "%Wstat%G" to see your
+population at any time.  This also shows any ready missiles.
+
+There are plenty of other types of items in the game, such as the
+persuasion devices, bombers, spies, and immigration plans.  You can get
+help for any item in your stockpile by entering "help", followed by the item's
+name.  So, if you had this mysterious %CMisinformation%G item handy, enter
+"%Whelp misinf%G" for detail on it.
+
+Before you start a game, make sure you check out a couple of the help
+files in the game.  An important one to check out is "%Whelp tables%G"
+inside the game.  You can go off to a vacant table to check out the
+files if you don't want to be disturbed by a game in progress.  Just
+entering "%Whelp%G" by itself in the game gives you a list of topics.
+Eventually, you'll probably want to read them all, but you can wait
+until the appropriate moment in the game.  Until then, make sure you
+check out "%Whelp commands%G", also.
