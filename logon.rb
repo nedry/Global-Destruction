@@ -39,19 +39,21 @@ end
 		return ip
 	end
 
-	def logon   
+	def logon  
+	
 		ip= figureip(@socket.getpeername)
-	print
+	  print
 		ddate = Time.now.strftime("%m/%d/%Y at %I:%M%p") 
 		log ("%GCONNECT :  %Y#{ddate} %Gfrom IP: %Y#{ip}%G.")
                 if detect_ansi then
                  sleep(1)
-                 print "ANSI Detected"
+                 print "ANSI Detected" if !STAND_ALONE
                  ansi = true
                 else
-                 print "ANSI not Detected"
+                 print "ANSI not Detected" if !STAND_ALONE
                  ansi = false
-                end
+							 end
+	if !STAND_ALONE then	
 		spam
 		print VER
 		print ("IP Address detected: #{ip}")
@@ -95,12 +97,33 @@ end
 		checkkillfile(username)
 		checkmultiplelogon
 		@who.each {|w|
-			@users[w.name].page.push(
-				"%C#{@c_user} %Ghas just logged into the system."
-			)
+			@users[w.name].page.push("%C#{@c_user} %Ghas just logged into the system.")
 		}
 		logandgreetuser(username, ip)
 		ogfileout("welcome2",4,true)
+	else
+		
+		getinp(">") {|inp|
+						username = inp.strip
+			      username != ""
+		}
+		if @users[username] == nil then
+		  @users.append(User.create(username, ip, "auto user", "auto user", "", 24,80, ansi, true, DEFLEVEL)) 
+		  @users.saveusers
+		  @c_user = @users[username].name
+		  log ("%CUSER    :  New user #{@c_user} created.")
+		  ogfileout("newuser",2,true)
+		  yes("Press <ENTER>",true,false)
+		else
+		  checkkillfile(username)
+		  checkmultiplelogon
+		  @who.each {|w|
+			@users[w.name].page.push("%C#{@c_user} %Ghas just logged into the system.")
+		}
+		logandgreetuser(username, ip)
+		ogfileout("welcome2",4,true)
+		end
+	end
 	end 
 
 	def checkmaxsessions
@@ -129,8 +152,7 @@ end
     # work on this.
 		more =true
 
-		@users.append(User.create(username, ip, location, address, password, 24,
-		80, ansi, more, DEFLEVEL)) 
+		@users.append(User.create(username, ip, location, address, password, 24,80, ansi, more, DEFLEVEL)) 
 		@users.saveusers
 		@c_user = @users[username].name
 		log ("%CUSER    :  New user #{@c_user} created.")
