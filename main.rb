@@ -3,11 +3,13 @@ class Session
 
 	def leave
 		@who.user(@c_user).where="Goodbye"
-		if yes("Log off now (Y,n)? ", true, false) then
+		outstr = "Log off now (Y,n)? "
+		outstr = "Quit game (Y,n)? " if !STAND_ALONE
+		if yes(outstr, true, false) then
 			write "%W"
 			gfileout('bye')
-			print "NO CARRIER"
-			sleep (1)
+			print "NO CARRIER" if STAND_ALONE
+			sleep (1) if STAND_ALONE
 			hangup
 		end
 	end
@@ -33,6 +35,7 @@ class Session
 
 			case sel
 			when "G" ; leave
+			when "Q" ; leave
 			when "UM"; run_if_ulevel {usermenu}
 			when "KL"; run_if_ulevel {log("REWRITE"); print ("%RDelete command send to log queue.")}
 			when "P"; teleconference

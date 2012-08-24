@@ -1,5 +1,5 @@
-DEBUG = true
-STAND_ALONE = true
+DEBUG = false
+STAND_ALONE = false
 BS = 8 
 ESC = 27
 DBS =127

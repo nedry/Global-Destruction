@@ -1916,3 +1916,250 @@
 %GCONNECT :  %Y08/24/2012 at 01:09PM %Gfrom IP: %Y127.0.0.1%G.
 %GUSER    :  %YSYSOP %Glogged on sucessfully.
 
+%GCONNECT :  %Y08/24/2012 at 04:16PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 04:22PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 04:49PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 04:52PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 04:53PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 04:53PM.
+
+%GCONNECT :  %Y08/24/2012 at 04:55PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 05:50PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 05:52PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 05:52PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 05:53PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 05:55PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 05:56PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 05:59PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:00PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 06:01PM.
+
+%GCONNECT :  %Y08/24/2012 at 06:02PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:07PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:09PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:10PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:11PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:13PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:15PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:16PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:24PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:26PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 06:27PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 06:42PM.
+
+%GCONNECT :  %Y08/24/2012 at 08:43PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:45PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:47PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:53PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:54PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:56PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 08:57PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 08:59PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 08:59PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:07PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:08PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:09PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:11PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:12PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:13PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:14PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:16PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:18PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:19PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:19PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:20PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:21PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:22PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:25PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:29PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:30PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:30PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:31PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:31PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:32PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:32PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:33PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:34PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:35PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:36PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:39PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:40PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:41PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:41PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:42PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:42PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:45PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:45PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:47PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:47PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 09:48PM.
+
+%GCONNECT :  %Y08/24/2012 at 09:48PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:50PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:53PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 09:54PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:57PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:58PM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y08/24/2012 at 09:59PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:01PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:05PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:06PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:06PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:08PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:08PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:10PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:10PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:11PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:12PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:13PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GCONNECT :  %Y08/24/2012 at 10:14PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:17PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:20PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:20PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:21PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:21PM.
+
+%GCONNECT :  %Y08/24/2012 at 10:21PM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %YSYSOP %Glogged on sucessfully.
+
+%GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:22PM.
+

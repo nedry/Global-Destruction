@@ -47,13 +47,13 @@ end
 		log ("%GCONNECT :  %Y#{ddate} %Gfrom IP: %Y#{ip}%G.")
                 if detect_ansi then
                  sleep(1)
-                 print "ANSI Detected" if !STAND_ALONE
+                 print "ANSI Detected" if STAND_ALONE
                  ansi = true
                 else
-                 print "ANSI not Detected" if !STAND_ALONE
+                 print "ANSI not Detected" if STAND_ALONE
                  ansi = false
 							 end
-	if !STAND_ALONE then	
+	if STAND_ALONE then	
 		spam
 		print VER
 		print ("IP Address detected: #{ip}")
@@ -188,10 +188,12 @@ end
 		log ("")
 		@logged_on = true
 		puts "-#{@c_user} logging in."
-		print "%WGood #{timeofday} #{username}"
-		ddate = @users[username].laston.strftime("%A %B %d, %Y")
-		dtime  = @users[username].laston.strftime("%I:%M%p (%Z)")
-		print "%GYou were last on %B#{ddate} %C #{dtime} %W"
+	  if STAND_ALONE then
+		  print "%WGood #{timeofday} #{username}"
+		  ddate = @users[username].laston.strftime("%A %B %d, %Y")
+		  dtime  = @users[username].laston.strftime("%I:%M%p (%Z)")
+		  print "%GYou were last on %B#{ddate} %C #{dtime} %W"
+		end
 		@users[@c_user].logons += 1
 		@users[@c_user].laston = Time.now
 		@users[@c_user].channel = 0
