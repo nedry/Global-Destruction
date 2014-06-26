@@ -288,10 +288,11 @@ class Session
 
 	#make sure everything goes through this!
 	def parse_c(line)
+
 		line = line.to_s.gsub("\t",'')
 		if @logged_on then
 			COLORTABLE.each_pair {|color, result|
-				line.gsub!(color) {@users[@c_user].ansi ? result : ''}
+				line.gsub!(color) {if @users[@c_user].ansi == true then result else  '' end}
 			}
 		end
 		return line

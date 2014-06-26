@@ -293,7 +293,6 @@ end
     #move this to the startup of the game
 
 		@chatbuff.clear
-		checkuseralias
 		gd_header
 		chan = @channel[@users[@c_user].channel]
 		@channel[@users[@c_user].channel].usrchannel.push(@c_user)
@@ -305,7 +304,7 @@ end
 		directed = ""
 		prompt = "%C#{@users[@c_user].channel+1}: "
 		getinp_c(prompt) {|l|
-      puts "@channel[@users[@c_user].channel].players.length: #{@channel[@users[@c_user].channel].players.length}"
+      puts "(tconf)@channel[@users[@c_user].channel].players.length: #{@channel[@users[@c_user].channel].players.length}"
       @channel[@users[@c_user].channel].players.each {|x| puts x}
       slashquit = false
       msgsent = true
@@ -486,17 +485,4 @@ end
 		return insert, line
 	end
 
-	def checkuseralias 
-		if @users[@c_user].alais == '' then 
-			@users[@c_user].alais = defaultalias(@c_user)
-			@users.saveusers
-			print <<-here
-			%RYou have not selected a chat alias!
-			%GYou have been assigned the default alias of %Y#{@users[@c_user].alais}
-			%GThis can be changed from the user configuration menu [#%Y%%G]
-			here
-			return false
-		end
-		return true
-	end
 end

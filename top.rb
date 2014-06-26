@@ -1,5 +1,4 @@
 #!/usr/bin/ruby 
-$LOAD_PATH << "."
 require "thread"
 require "socket"
 require 'tools.rb'

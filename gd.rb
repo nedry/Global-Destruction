@@ -5,7 +5,7 @@
 #   (C) Copyright 2002, Fly-By-Night Software (Ruby Version)                        
 #                                                                                                            
 ############################################## 
-
+$LOAD_PATH << "."
 
 def random(r)
     # assume r is a range of integers first < last
@@ -146,7 +146,12 @@ end
     if !@started then 
      @channel[@c_num].g_buffer.each {|x| 
      parray 	= Array.new
+		 puts "x: #{x}"
+		 puts "x.split: #{x.split.each {|x| put x}}"
      parray	= x.split
+		         puts "DEBUG: players.length: #{@players.len}"
+				puts "DEBUG: parray: #{parray.length}"
+					puts "DEBUG: parray: #{parray.each {|x| puts x}}"	
      if parray.length > 1 then
       if parray[1].upcase == "START"  and !@started then
         sleep(1)
@@ -156,6 +161,8 @@ end
         puts "DEBUG: vplayers.length: #{@v_players.len}"
         v_combine
         puts "DEBUG: players.length: #{@players.len}"
+				puts "DEBUG: parray: #{parray.length}"
+					puts "DEBUG: parray: #{parray.each_with_index {|x,i| puts i,x}}"			
         startit(parray[0])
        @channel[@c_num].status = true
        

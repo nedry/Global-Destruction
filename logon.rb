@@ -51,7 +51,7 @@ end
                  ansi = true
                 else
                  print "ANSI not Detected" if STAND_ALONE
-                 ansi = false
+                 ansi = falseansi
 							 end
 	if STAND_ALONE then	
 		spam
@@ -107,14 +107,22 @@ end
 						username = inp.strip
 			      username != ""
 		}
-		if @users[username] == nil then
-		  @users.append(User.create(username, ip, "auto user", "auto user", "", 24,80, ansi, true, DEFLEVEL)) 
-		  @users.saveusers
-		  @c_user = @users[username].name
+
+		if @users[username].nil? then
+		  @users.append(User.create(username, ip, "auto user", "auto user", "", 24,80, true, true, DEFLEVEL)) 
+			@c_user = @users[username].name
+			@users[@c_user].logons = 1
+			@users[@c_user].laston = Time.now
+		  @users[@c_user].channel = 0
+		  @users[@c_user].page.clear if @users[@c_user].page != nil #yet another linux nil chec
+			@users[@c_user].alais = @users[@c_user].name.gsub(/\s+/, "")
+			@users.saveusers
 		  log ("%CUSER    :  New user #{@c_user} created.")
 		  ogfileout("newuser",2,true)
 		  yes("Press <ENTER>",true,false)
-		else
+			end
+
+		 @c_user = @users[username].name
 		  checkkillfile(username)
 		  checkmultiplelogon
 		  @who.each {|w|
@@ -122,7 +130,7 @@ end
 		}
 		logandgreetuser(username, ip)
 		ogfileout("welcome2",4,true)
-		end
+	
 	end
 	end 
 
@@ -174,7 +182,7 @@ end
 	def checkmultiplelogon
 		for x in 0..(@who.len - 1)
 			if @who[x].name.upcase == @c_user.upcase then
-				log("%RSECURITY:  %Y#{username} %Gtried to log on, but is already on-line")
+				log("%RSECURITY:  %Y#{@who[x].name.upcase} %Gtried to log on, but is already on-line")
 				log("")
 				gfileout("already")
 				sleep(10)
