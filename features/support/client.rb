@@ -1,4 +1,4 @@
-require 'socket'
+require_relative "client_socket"
 
 class Client
 
@@ -6,23 +6,38 @@ class Client
   attr_accessor :port
 
   def initialize
-    @socket = nil
-    @host = 'localhost'
+    @client_socket = nil
+    @host = "localhost"
     @port = 3000
   end
 
   def connected?
-    @socket
+    @client_socket
   end
 
   def connect
-    # raise "Already connected" if connected?
-    # @socket = TCPSocket.new @host, @port
-    @socket = :foo #DEBUG
+    raise "Already connected" if connected?
+    @client_socket = ClientSocket.new(@host, @port)
   end
 
-end
+  def output
+    @client_socket.output
+  end
 
-def client
-  @client ||= Client.new
+  def puts(s = "")
+    @client_socket.write(s + "\r")
+  end
+
+  def wait_for(pattern)
+    unless pattern.is_a?(Regexp)
+      pattern = Regexp.new(Regexp.escape(pattern))
+    end
+    match = nil
+    Timeout.timeout(16) do
+      until (match = pattern.match(@client_socket.output))
+        @client_socket.wait_for_new_output
+      end
+    end
+  end
+
 end

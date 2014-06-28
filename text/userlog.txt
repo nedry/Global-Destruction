@@ -2175,3 +2175,275 @@
 
 %GUSER    :  %Ywayne %Ghas disconnected at 06/28/2014 at 05:38AM.
 
+%GCONNECT :  %Y06/28/2014 at 07:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:24AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:24AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:24AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:24AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:25AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:25AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:25AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:25AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:27AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:27AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:52AM %Gfrom IP: %Y127.0.0.1%G.
+%CUSER    :  New user wayne@mercury:~/lab/global_destruction/gem$ cucumber created.
+%GUSER    :  %Ywayne@mercury:~/lab/global_destruction/gem$ cucumber %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 07:53AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Ywayne %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 07:54AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:54AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:57AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 07:57AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:17AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%CUSER    :  New user fred created.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Ghas disconnected at 06/28/2014 at 08:21AM.
+
+%GCONNECT :  %Y06/28/2014 at 08:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:55AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 08:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:09AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:09AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:09AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:09AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:11AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:11AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:11AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:11AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:16AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:16AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:16AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:16AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:19AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:20AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:21AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:22AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:23AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:26AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:27AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:27AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:28AM %Gfrom IP: %Y127.0.0.1%G.
+%CUSER    :  New user red created.
+%GUSER    :  %Yred %Glogged on sucessfully.
+
+%CUSER    :  New user f created.
+%GCONNECT :  %Y06/28/2014 at 09:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:36AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:36AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:36AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:36AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:37AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:37AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:37AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:37AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:58AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:59AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:59AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 09:59AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 09:59AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:00AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:01AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:02AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:03AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:03AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:04AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:04AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:04AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:04AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:05AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:05AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:05AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:05AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:06AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:33AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:34AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:34AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:34AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:34AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:35AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:35AM %Gfrom IP: %Y127.0.0.1%G.
+%GUSER    :  %Yfred %Glogged on sucessfully.
+
+%GCONNECT :  %Y06/28/2014 at 10:35AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 10:35AM %Gfrom IP: %Y127.0.0.1%G.

@@ -19,8 +19,7 @@ module GlobalDestruction
       who = Who.new(@console)
       channels = Channel.new(@console)
       log = Log.new
-      @ssock = ServerSocket.new(users, who, channels, log)
-      @ssock.console = @console
+      @ssock = ServerSocket.new(users, who, channels, log, @console)
       @ssock.run
     end
 

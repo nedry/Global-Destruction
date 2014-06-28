@@ -7,7 +7,9 @@ Feature: Connect with the server
   Scenario: Connect
     Given I start the server
     Given I connect
+    Given I log in
 
-  Scenario: Connect agin
+  Scenario: Connect again
     Given I start the server
     Given I connect
+    Given I log in

@@ -8,7 +8,8 @@ class Server
 
   def initialize
     @run_session = GlobalDestruction::RunSession.new
-    @run_session.console = NullOut.new
+    console = NullOut.new
+    @run_session.console = console
   end
 
   def host
