@@ -1,18 +1,34 @@
+#!/usr/bin/env ruby
+
 $LOAD_PATH << "."
 
 require 'top.rb'
 
-#  ------------------ MAIN ------------------
+module GlobalDestruction
+  class RunSession
 
+    attr_accessor :console
 
-$stdout.flush
+    def initialize
+      @console = $stdout
+    end
 
-users = Users.new
-who = Who.new
-channels = Channel.new
-log = Log.new
+    def run
+      $stdout.flush
+      users = Users.new(@console)
+      who = Who.new(@console)
+      channels = Channel.new(@console)
+      log = Log.new
+      @ssock = ServerSocket.new(users, who, channels, log)
+      @ssock.console = @console
+      @ssock.run
+    end
 
-ssock = ServerSocket.new(users, who, channels, log)
+    def stop
+      @ssock.close
+    end
 
-#puts "Calling 'run'"; $stdout.flush
-ssock.run
+  end
+end
+
+GlobalDestruction::RunSession.new.run if $0 == __FILE__

@@ -3,7 +3,7 @@ require 'globalconsts.rb'
 require 'wrap.rb'
 
 class Session
-	include Logger
+	include GdLogger
 
 	# Input a line a character at a time. 
 	def getstr(echo, wrapon, width, prompt, chat) 

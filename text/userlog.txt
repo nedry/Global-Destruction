@@ -2163,3 +2163,15 @@
 
 %GUSER    :  %YSYSOP %Ghas disconnected at 08/24/2012 at 10:22PM.
 
+%GCONNECT :  %Y06/28/2014 at 04:18AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 04:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 04:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 04:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 04:28AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 04:29AM %Gfrom IP: %Y127.0.0.1%G.
+%GCONNECT :  %Y06/28/2014 at 05:37AM %Gfrom IP: %Y127.0.0.1%G.
+%CUSER    :  New user wayne created.
+%GUSER    :  %Ywayne %Glogged on sucessfully.
+
+%GUSER    :  %Ywayne %Ghas disconnected at 06/28/2014 at 05:38AM.
+
