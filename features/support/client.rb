@@ -1,4 +1,6 @@
-require_relative "client_socket"
+require "net/telnet"
+
+require_relative "client_log"
 
 class Client
 
@@ -6,38 +8,38 @@ class Client
   attr_accessor :port
 
   def initialize
-    @client_socket = nil
+    @telnet = nil
     @host = "localhost"
     @port = 3000
+    @output = StringIO.new
+    @log = ClientLog.new
   end
 
   def connected?
-    @client_socket
+    @telnet
   end
 
   def connect
     raise "Already connected" if connected?
-    @client_socket = ClientSocket.new(@host, @port)
-  end
-
-  def output
-    @client_socket.output
+    @telnet = Net::Telnet.new(
+      "Host" => @host,
+      "Port" => @port,
+      "Output_log" => @log.path,
+    )
   end
 
   def puts(s = "")
-    @client_socket.write(s + "\r")
+    @telnet.puts s
   end
 
   def wait_for(pattern)
     unless pattern.is_a?(Regexp)
       pattern = Regexp.new(Regexp.escape(pattern))
     end
-    match = nil
-    Timeout.timeout(16) do
-      until (match = pattern.match(@client_socket.output))
-        @client_socket.wait_for_new_output
-      end
-    end
+    @telnet.waitfor("Match" => pattern)
+  rescue Net::ReadTimeout
+    Kernel::puts @log.sanitized_tail
+    raise "Timeout waiting for #{pattern.inspect}"
   end
 
 end
