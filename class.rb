@@ -51,8 +51,9 @@ end
 class Listing
   include Enumerable
 
-  def initialize(console)
+  def initialize(console, data_dir)
     @console = console
+    @data_dir = data_dir
     @mutex = Mutex.new
     @list = Array.new
   end
@@ -95,27 +96,28 @@ class Listing
   end
 
   def savelist(filename)
+    path = File.join(@data_dir, filename)
     @mutex.synchronize {
-      File.open(filename, "w+") do |f| 
+      File.open(path, "w+") do |f| 
         Marshal.dump( @list, f) ## 
       end 
     }
   end
 
-  def loadlist(filename, listname)
+  def loadlist(filename, listname, console)
+    path = File.join(@data_dir, filename)
     @mutex.synchronize {
       @console.puts "-Loading #{listname}"
-
-      if File.exists?(filename) 
-        File.open(filename) do |f|   
+      if File.exists?(path) 
+        File.open(path) do |f|   
           @list = Marshal.load(f)  ## 
         end
       else
         @list = defaultlist
-        print "-#{listname.capitalize} not Found.  Creating new #{listname}\n" 
-        File.open(filename, "w+") do |f| 
+        @console.puts "-#{listname.capitalize} not Found.  Creating new #{listname}" 
+        File.open(path, "w+") do |f| 
           Marshal.dump(@list, f) ## 
-          print "-Saving #{listname}...\n" 
+          @console.puts "-Saving #{listname}..." 
         end 
       end
     }
@@ -152,7 +154,7 @@ class Achannel
 end
 
 class Channel < Listing
-  def initialize(console)
+  def initialize(console, data_dir)
     super
   end 
 
@@ -182,7 +184,7 @@ class Awho
 end
 
 class Who < Listing
-  def initialize(console)
+  def initialize(console, data_dir)
     super
   end 
 
@@ -278,12 +280,12 @@ class User
 end # of User Object
 
 class Users < Listing
-  def initialize(console)
+  def initialize(console, data_dir)
     super
   end 
 
   def loadusers
-    loadlist('users.dat','User file')
+    loadlist('users.dat','User file', @console)
   end
 
   def defaultlist

@@ -6,10 +6,11 @@ class Server
 
   attr_accessor :port
 
-  def initialize
+  def initialize(data_dir)
     @run_session = GlobalDestruction::RunSession.new
     console = NullOut.new
     @run_session.console = console
+    @run_session.data_dir = data_dir.path
   end
 
   def host
@@ -33,6 +34,7 @@ class Server
 
   def ready?
     socket = TCPSocket.new(host, port)
+    socket.close
     true
   rescue Errno::ECONNREFUSED
     false

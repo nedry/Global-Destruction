@@ -1,5 +1,3 @@
-require "tempfile"
-
 module AnsiSanitizer
 
   extend self

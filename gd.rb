@@ -13,8 +13,6 @@ def random(r)
   r.first + rand(r.last - r.first + (r.exclude_end? ? 0 : 1))
 end
 
-
-
 class GD_thread
 
   require "gd_main.rb"
@@ -27,8 +25,17 @@ class GD_thread
 
   include Enumerable
   
-  def initialize(users,who,channel,log,c_num, console)
+  def initialize(
+      users,
+      who,
+      channel,
+      log,
+      c_num,
+      console,
+      data_dir
+    )
     @console = console
+    @data_dir = data_dir
     reset
     #  set_up_database
 
@@ -48,7 +55,7 @@ class GD_thread
     @v_countries = []
     @deck.setitup
     
-    @scores = Scores.new(@console)
+    @scores = Scores.new(@console, @data_dir)
     @scores.loadscores
 
     @randoms = []

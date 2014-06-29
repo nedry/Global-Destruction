@@ -8,18 +8,27 @@ module GlobalDestruction
   class RunSession
 
     attr_accessor :console
+    attr_accessor :data_dir
 
     def initialize
       @console = $stdout
+      @data_dir = __dir__
     end
 
     def run
       $stdout.flush
-      users = Users.new(@console)
-      who = Who.new(@console)
-      channels = Channel.new(@console)
+      users = Users.new(@console, @data_dir)
+      who = Who.new(@console, @data_dir)
+      channels = Channel.new(@console, @data_dir)
       log = Log.new
-      @ssock = ServerSocket.new(users, who, channels, log, @console)
+      @ssock = ServerSocket.new(
+        users,
+        who,
+        channels,
+        log,
+        @console,
+        @data_dir
+      )
       @ssock.run
     end
 

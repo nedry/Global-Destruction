@@ -128,14 +128,15 @@ class Session
 
   class ServerSocket
 
-    def initialize(users, who, channel, log, console)
-      @serverSocket = TCPServer.open(IP_PORT)
+    def initialize(users, who, channel, log, console, data_dir)
       @users = users
       @who = who
       @channel = channel
       @log = log
-      @logged_on = false
       @console = console
+      @data_dir = data_dir
+      @logged_on = false
+      @serverSocket = TCPServer.open(IP_PORT)
     end
 
     def run
@@ -143,7 +144,7 @@ class Session
       @users.loadusers
       @channel.append(Achannel.create("","Table #1","","","N/A","",false))
       @console.puts "\n-Starting GD_thread...."
-      Thread.new {GD_thread.new(@users,@who,@channel,@log,0,@console).run}
+      Thread.new {GD_thread.new(@users,@who,@channel,@log,0,@console, @data_dir).run}
       @console.puts "\n-Starting Happy thread..."
       Thread.new {Happythread.new(@users,@who,@channel,@log).run}
       Thread.abort_on_exception = true  if DEBUG #debug mode.  thread crash stops app
