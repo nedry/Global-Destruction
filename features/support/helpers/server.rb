@@ -1,6 +1,8 @@
 require 'socket'
 
-require_relative "../../runsession"
+require_relative "../../../runsession"
+
+require_relative "null_out"
 
 class Server
 

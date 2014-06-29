@@ -1,5 +1,8 @@
 require "net/telnet"
 
+require_relative "client_log"
+require_relative "logging_socket"
+
 class Client
 
   attr_accessor :host

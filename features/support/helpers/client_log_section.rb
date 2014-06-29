@@ -1,3 +1,4 @@
+require_relative "ansi_sanitizer"
 require_relative "telnet_sanitizer"
 
 class ClientLogSection

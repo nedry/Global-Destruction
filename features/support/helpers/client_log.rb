@@ -1,5 +1,7 @@
 require "forwardable"
 
+require_relative "client_log_section"
+
 class ClientLog
 
   extend Forwardable
