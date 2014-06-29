@@ -5,10 +5,10 @@ class Module
   def sync_reader(mutexname, *args)
     args.each {|var|
       module_eval <<-here
-			def #{var.to_s}
-				#{mutexname}.synchronize {@#{var.to_s}}
-			end
-			here
+                        def #{var.to_s}
+                                #{mutexname}.synchronize {@#{var.to_s}}
+                        end
+                        here
     }
   end
   private :sync_reader
@@ -21,10 +21,10 @@ module GdLogger
   end
 
   def writelog(logfile)
-    fname = TEXTPATH + logfile
+    fname = File.join(TEXTPATH, logfile)
     if @log.line.length > 0 then
       lf = File.new(fname, File::CREAT|File::APPEND|File::RDWR, 0644)
-      @log.line.each {|x| 
+      @log.line.each {|x|
         if x == "REWRITE" then
           lf.close
           rewritelog(logfile)
@@ -39,11 +39,11 @@ module GdLogger
   end
 
   def rewritelog(logfile)
-    fname = TEXTPATH + logfile
+    fname = File.join(TEXTPATH, logfile)
     if File.exists?(fname) then
       lf = File.new(fname, File::TRUNC|File::RDWR, 0644)
       lf.close
-    end 
+    end
   end
 end
 
@@ -75,22 +75,22 @@ class Listing
       key.kind_of?(Integer) ?  @list[key] :
       @list.find {|v| key == yield(v)}
     }
-  end 
-  
+  end
+
   def append(val)
     @mutex.synchronize {
-      @list.push(val) 
-      self 
+      @list.push(val)
+      self
     }
   end
-  
-  def delete(val) 
+
+  def delete(val)
     @mutex.synchronize {
-      @list.delete_at(val) 
-      self 
+      @list.delete_at(val)
+      self
     }
-  end 
-  
+  end
+
   def len
     return @list.length
   end
@@ -98,9 +98,9 @@ class Listing
   def savelist(filename)
     path = File.join(@data_dir, filename)
     @mutex.synchronize {
-      File.open(path, "w+") do |f| 
-        Marshal.dump( @list, f) ## 
-      end 
+      File.open(path, "w+") do |f|
+        Marshal.dump( @list, f) ##
+      end
     }
   end
 
@@ -108,42 +108,42 @@ class Listing
     path = File.join(@data_dir, filename)
     @mutex.synchronize {
       @console.puts "-Loading #{listname}"
-      if File.exists?(path) 
-        File.open(path) do |f|   
-          @list = Marshal.load(f)  ## 
+      if File.exists?(path)
+        File.open(path) do |f|
+          @list = Marshal.load(f)  ##
         end
       else
         @list = defaultlist
-        @console.puts "-#{listname.capitalize} not Found.  Creating new #{listname}" 
-        File.open(path, "w+") do |f| 
-          Marshal.dump(@list, f) ## 
-          @console.puts "-Saving #{listname}..." 
-        end 
+        @console.puts "-#{listname.capitalize} not Found.  Creating new #{listname}"
+        File.open(path, "w+") do |f|
+          Marshal.dump(@list, f) ##
+          @console.puts "-Saving #{listname}..."
+        end
       end
     }
   end
-end	
+end
 
-Achannel = Struct.new('Achannel',	:deleted, :to, :from, :name, :count, :line,
+Achannel = Struct.new('Achannel',       :deleted, :to, :from, :name, :count, :line,
   :status, :createdby, :password, :usrchannel, :v_usrchannel, :g_buffer, :a_player,
   :locked,:players,:usd_countries)
 class Achannel
   private :initialize
-  
+
   class << self
     def create(line, name, to, from, createdby, password, status)
       a = self.new
-      a.deleted	= false
-      a.to			  = to
-      a.from			= from
-      a.name			= name
-      a.count		= 0
-      a.line			= line
+      a.deleted = false
+      a.to                        = to
+      a.from                    = from
+      a.name                    = name
+      a.count           = 0
+      a.line                    = line
       a.status = status
-      a.password	= password
-      a.usrchannel		= []
-      a.v_usrchannel	= []				#Vitural Users
-      a.g_buffer		  = []				#Buffer for command processing
+      a.password        = password
+      a.usrchannel              = []
+      a.v_usrchannel    = []                            #Vitural Users
+      a.g_buffer                  = []                          #Buffer for command processing
       a.players = []
       a.a_player = nil
       a.locked = false
@@ -156,11 +156,11 @@ end
 class Channel < Listing
   def initialize(console, data_dir)
     super
-  end 
+  end
 
-  def [](key) 
+  def [](key)
     findkey(key) {|channel| channel.line}
-  end 
+  end
 
   sync_reader '@mutex', :deleted, :name, :count, :to, :from, :createdby, :line,
   :status, :usrchannel, :v_usrchannel, :g_buffer,:a_player,:locked,:players,:usd_countries
@@ -172,12 +172,12 @@ class Awho
   class << self
     def create(name,location,threadn,level)
       a = self.new
-      a.date		= Time.now
-      a.name		= name
-      a.location	= location
-      a.threadn	= threadn
-      a.level		= level
-      a.where		= "Logon"
+      a.date            = Time.now
+      a.name            = name
+      a.location        = location
+      a.threadn = threadn
+      a.level           = level
+      a.where           = "Logon"
       return a
     end
   end
@@ -186,17 +186,17 @@ end
 class Who < Listing
   def initialize(console, data_dir)
     super
-  end 
+  end
 
   sync_reader '@mutex', :date, :threadn, :location, :name, :level, :where
 
-  def [](key) 
-    findkey(key) {|who| who.threadn} 
-  end 
+  def [](key)
+    findkey(key) {|who| who.threadn}
+  end
 
-  def user(key) 
+  def user(key)
     findkey(key.upcase) {|who| who.name.upcase}
-  end 
+  end
 end   #of Class Who
 
 
@@ -218,7 +218,7 @@ class Cmdstack
 
   def pullapart (input)
     happy = input.split(/\s*;\s*/)
-    @cmd = happy if happy 
+    @cmd = happy if happy
   end
 end #of def
 
@@ -233,95 +233,92 @@ class Log
 end #of class Log
 
 class LineEditor
-  def initialize 
-    @msgtext 	= []
-    @line		= 0
-    @save		= false
+  def initialize
+    @msgtext    = []
+    @line               = 0
+    @save               = false
   end
   attr_accessor :msgtext, :line, :save
 end
 
 User = Struct.new('User',:created, :deleted, :alais, :locked, :name, :phone,
   :citystate, :address, :password, :length, :width, :ansi, :more, :level,:created,
-  :modified, :laston,  :logons, :posted, :page,:channel) 
-class User 
+  :modified, :laston,  :logons, :posted, :page,:channel)
+class User
   private :initialize
   class << self
     def create(name,  phone, citystate, address, password, length, width,
         ansi, more, level)
       a = self.new
-      a.deleted	= false 
-      a.locked 	= false 
-      a.name  	= name 
-      a.alais		= '' 
-      a.phone  	= phone 
-      a.citystate	= citystate 
-      a.address 	= address 
-      a.password 	= password 
-      a.length 	= length
-      a.width 	= 80 
-      a.ansi 		= ansi
-      a.more 		= more
-      a.level		= level
-      a.created	= Time.now
-      a.modified	= Time.now
-      a.laston	= Time.now
-      a.logons	= 0
-      a.posted	= 0
-      a.page		= []
-      a.channel	= 0
+      a.deleted = false
+      a.locked  = false
+      a.name    = name
+      a.alais           = ''
+      a.phone   = phone
+      a.citystate       = citystate
+      a.address         = address
+      a.password        = password
+      a.length  = length
+      a.width   = 80
+      a.ansi            = ansi
+      a.more            = more
+      a.level           = level
+      a.created = Time.now
+      a.modified        = Time.now
+      a.laston  = Time.now
+      a.logons  = 0
+      a.posted  = 0
+      a.page            = []
+      a.channel = 0
       return a
     end
-  end 
+  end
 
   def show
-    print "User: #@name #@phone #@citystate #@address #@password\n" 
-  end 
+    print "User: #@name #@phone #@citystate #@address #@password\n"
+  end
 end # of User Object
 
 class Users < Listing
   def initialize(console, data_dir)
     super
-  end 
+  end
 
   def loadusers
     loadlist('users.dat','User file', @console)
   end
 
   def defaultlist
-    sysop =	User.create('SYSOP', '000.000.000.000', 'Anytown, USA',
+    sysop =     User.create('SYSOP', '000.000.000.000', 'Anytown, USA',
       '123 Sample Street', 'STUPID', 24, 80, true, true, 255)
     return [sysop]
   end
 
-  sync_reader '@mutex',	:created, :deleted, :alais, :locked, :name, :phone,
+  sync_reader '@mutex', :created, :deleted, :alais, :locked, :name, :phone,
   :citystate, :address, :password, :length, :width, :ansi, :more, :level,:created,
   :modified, :laston,  :logons, :posted, :page,:channel
 
-  def findalais(key) 
-    findkey(key.upcase) {|user| user.alais.upcase} 
-  end 
+  def findalais(key)
+    findkey(key.upcase) {|user| user.alais.upcase}
+  end
 
-  def [](key) 
+  def [](key)
     key = key.upcase if !key.kind_of?(Integer)
-    findkey(key) {|user| user.name.upcase} 
-  end 
+    findkey(key) {|user| user.name.upcase}
+  end
 
-  def saveusers 
+  def saveusers
     savelist('users.dat')
-  end 
+  end
 
-  def checkpassword (username,password) 
+  def checkpassword (username,password)
     @mutex.synchronize {
-      if self[username] != nil  
+      if self[username] != nil
         return (self[username].password == password)
-      else 
+      else
         puts CRLF+"-Bad username passed to def:checkpassword.  Please tell sysop!"
         return false
-      end 
+      end
     }
-  end 
-end   #of Class User_list 
-
-
-
+  end
+end   #of Class User_list

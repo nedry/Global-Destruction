@@ -108,7 +108,7 @@ def write_score_file(num)
   total = num
   total = scores.length - 1 if num > scores.length - 1
   puts scores.length 
-  outfile = File.new("#{TEXTPATH}gd_score.txt", File::CREAT|File::TRUNC|File::RDWR, 0644)
+  outfile = File.new(File.join(TEXTPATH, "gd_score.txt"), File::CREAT|File::TRUNC|File::RDWR, 0644)
   outfile.puts "%CTitle"
   outfile.puts " Commander Name                           %RDamage             Overkills  %GWins"
   outfile.puts " %W---------------------------------------  ------             ---------  ----"

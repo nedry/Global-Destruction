@@ -1,9 +1,12 @@
 require "net/telnet"
 
+require_relative "client_helpers"
 require_relative "client_log"
 require_relative "logging_socket"
 
 class Client
+
+  include ClientHelpers
 
   attr_accessor :host
   attr_accessor :port
@@ -38,8 +41,20 @@ class Client
     @telnet.waitfor("Match" => pattern)
     @client_log.new_section
   rescue Net::ReadTimeout
-    Kernel::puts @client_log.sanitized_tail
+    show_tail
     raise "Timeout waiting for #{pattern.inspect}"
+  end
+
+  def show_all
+    Kernel::puts @client_log.sanitized
+  end
+
+  def show_tail
+    Kernel::puts tail
+  end
+
+  def tail
+    @client_log.sanitized_tail
   end
 
 end

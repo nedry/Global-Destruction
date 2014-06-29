@@ -1,13 +1,13 @@
 class Session
 
-  def checkpassword (username, password) 
+  def checkpassword (username, password)
     if @users[username] == nil
       log ("%RERROR   : %Gyou sent def checkpassword a bad username.")
       return false
     else
       return (@users[username].password == password)
-    end 
-  end 
+    end
+  end
 
   def detect_ansi
     print "\e[s"      #Save Cursor Position
@@ -39,11 +39,11 @@ class Session
     return ip
   end
 
-  def logon  
-    
+  def logon
+
     ip= figureip(@socket.getpeername)
     print
-    ddate = Time.now.strftime("%m/%d/%Y at %I:%M%p") 
+    ddate = Time.now.strftime("%m/%d/%Y at %I:%M%p")
     log ("%GCONNECT :  %Y#{ddate} %Gfrom IP: %Y#{ip}%G.")
     if detect_ansi then
       sleep(1)
@@ -53,14 +53,14 @@ class Session
       print "ANSI not Detected" if STAND_ALONE
       ansi = false
     end
-    if STAND_ALONE then	
+    if STAND_ALONE then
       spam
       print VER
       print ("IP Address detected: #{ip}")
-      if ansi and File.exists?(TEXTPATH + "welcome1.ans") then
-        fileout(TEXTPATH + "welcome1.ans")
+      if ansi and File.exists?(File.join(TEXTPATH, "welcome1.ans")) then
+        fileout(File.join(TEXTPATH, "welcome1.ans"))
       else
-        fileout(TEXTPATH + "welcome1.txt")
+        fileout(File.join(TEXTPATH, "welcome1.txt"))
       end
 
       checkmaxsessions
@@ -70,7 +70,7 @@ class Session
       while true
         count = count + 1
         username = ''
-        getinp("Enter your name: ") {|inp| 
+        getinp("Enter your name: ") {|inp|
           username = inp.strip
           username != ""
         }
@@ -86,7 +86,7 @@ class Session
             newuser(username, ip)
           else
             next # input name again
-          end	
+          end
         end
 
         password = getpwd("Enter password for user #{username}: ")
@@ -102,14 +102,14 @@ class Session
       logandgreetuser(username, ip)
       ogfileout("welcome2",4,true)
     else
-      
+
       getinp(">") {|inp|
         username = inp.strip
         username != ""
       }
 
       if @users[username].nil? then
-        @users.append(User.create(username, ip, "auto user", "auto user", "", 24,80, true, true, DEFLEVEL)) 
+        @users.append(User.create(username, ip, "auto user", "auto user", "", 24,80, true, true, DEFLEVEL))
         @c_user = @users[username].name
         @users[@c_user].logons = 1
         @users[@c_user].laston = Time.now
@@ -130,9 +130,9 @@ class Session
       }
       logandgreetuser(username, ip)
       ogfileout("welcome2",4,true)
-      
+
     end
-  end 
+  end
 
   def checkmaxsessions
     toomany = Thread.list
@@ -146,7 +146,7 @@ class Session
 
   def newuser(username, ip)
     password = nil
-    
+
     while !password
       password = getandconfirmpwd
     end
@@ -160,7 +160,7 @@ class Session
     # work on this.
     more =true
 
-    @users.append(User.create(username, ip, location, address, password, 24,80, ansi, more, DEFLEVEL)) 
+    @users.append(User.create(username, ip, location, address, password, 24,80, ansi, more, DEFLEVEL))
     @users.saveusers
     @c_user = @users[username].name
     log ("%CUSER    :  New user #{@c_user} created.")
@@ -170,10 +170,10 @@ class Session
 
   def checkkillfile(username)
     @c_user = @users[username].name
-    if @users[@c_user].deleted then 
+    if @users[@c_user].deleted then
       log("%RSECURITY:  %Y#{@c_user} %Gtried to log on, but is in the kill file!")
       log("")
-      gfileout("killfile") 
+      gfileout("killfile")
       sleep(10)
       hangup
     end

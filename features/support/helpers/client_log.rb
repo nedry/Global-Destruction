@@ -21,6 +21,10 @@ class ClientLog
     end || @log_sections.last
   end
 
+  def sanitized
+    @log_sections.map(&:sanitized).join
+  end
+
   def new_section
     @log_sections << ClientLogSection.new
   end

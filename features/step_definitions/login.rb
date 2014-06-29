@@ -3,7 +3,7 @@ Given(/^I log in$/) do
   @client.puts "fred"
   @client.wait_for "ENTER"
   @client.puts
-  @client.wait_for "for menu"
+  @client.wait_for_prompt
 end
 
 Given(/^I am logged in$/) do
