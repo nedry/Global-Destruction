@@ -1,29 +1,26 @@
-require "tempfile"
-
-require_relative "ansi_sanitizer"
+require "forwardable"
 
 class ClientLog
 
-  include AnsiSanitizer
+  extend Forwardable
 
   def initialize
-    file = Tempfile.new('client_log')
-    file.close
-    @path = file.path
+    @log_sections = []
+    new_section
   end
 
-  def path
-    @path
-  end
-
-  def sanitized_tail
-    remove_ansi_sequences(tail)
-  end
-
-  private
+  def_delegator :tail, :log_read
+  def_delegator :tail, :log_write
+  def_delegator :tail, :sanitized, :sanitized_tail
 
   def tail
-    Array(File.readlines(@path)[-20..-1]).join
+    @log_sections.reverse.find do |log_section|
+      !log_section.empty?
+    end || @log_sections.last
+  end
+
+  def new_section
+    @log_sections << ClientLogSection.new
   end
 
 end

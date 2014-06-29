@@ -4,10 +4,5 @@ Feature: Connect with the server
   We don't know what to test yet, because we don't know what it
   actually does.
 
-  Scenario: Connect
-    Given I start the server
-    Given I connect
-    Given I log in
-
   Scenario: Logged in
     Given I am logged in
