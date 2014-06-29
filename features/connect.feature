@@ -8,3 +8,6 @@ Feature: Connect with the server
     Given I start the server
     Given I connect
     Given I log in
+
+  Scenario: Logged in
+    Given I am logged in

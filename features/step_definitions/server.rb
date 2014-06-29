@@ -8,5 +8,6 @@ Given(/^I start the server$/) do
 end
 
 After do
+  return unless @server
   @server.shutdown
 end

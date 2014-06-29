@@ -33,6 +33,7 @@ module GlobalDestruction
     end
 
     def stop
+      return unless @ssock
       @ssock.close
     end
 

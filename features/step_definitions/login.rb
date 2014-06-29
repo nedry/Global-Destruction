@@ -5,3 +5,9 @@ Given(/^I log in$/) do
   @client.puts
   @client.wait_for "for menu"
 end
+
+Given(/^I am logged in$/) do
+  step "I start the server"
+  step "I connect"
+  step "I log in"
+end
